@@ -1,0 +1,13 @@
+# never commit data or participant-level objects
+*.rds
+*.RData
+*.Rdata
+*.rda
+output/
+derived/
+*.csv
+*.tsv
+*.profile
+*.sscore
+.Rhistory
+.DS_Store
